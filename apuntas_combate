@@ -1,0 +1,15 @@
+pikachu
+    -vida: 80
+    -cpu
+    -onda trueno: 10 daño
+    -bola boltio: 11 daño
+
+squirtle
+    -vida: 90
+    -user
+    -Palcaje: 10 daño
+    -Pistola agua: 12 daño
+    -burbuja: 9 daño
+
+mientras vida_picaku>0 and vida_squirtle>0
+    partida continua
